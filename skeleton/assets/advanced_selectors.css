@@ -81,8 +81,8 @@ ol {
   font-weight: bold;
 }
 
-h2 + h4 {
-  border: 1px, solid, black, top
+h2 + .user_review {
+  border: 1px solid black
 }
 
 
